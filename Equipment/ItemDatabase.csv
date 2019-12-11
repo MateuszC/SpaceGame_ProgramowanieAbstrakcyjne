@@ -1,0 +1,16 @@
+id;iconName;name;description;types;mass;size;requireTarget;canBeTurnOn;canBeActivated;canBeOverdrive;poweringUpTime;poweringDownTime;durabilityMax;heatMax;
+1;2_64_11;Ship Core;Core of the ship with basic defenses;ShipCore,Mobility, ManeuverabilityEnchancer;5000;Technocratic;FALSE;FALSE;FALSE;FALSE;0;0;0;0;
+2;1_64_1;Nuclear Generator;Energy generator that creates power.;Energy, EnergyGenerator;1000;Amateurish;FALSE;TRUE;FALSE;TRUE;2;5;100;500;
+3;1_64_7;Standard Battery;Battery that holds power;Energy, EnergyBattery;500;Amateurish;FALSE;TRUE;FALSE;FALSE;2;5;50;50;
+4;3_64_2;Fuel Engine Booster;Boost your engine;Mobility, Engine;500;Amateurish;FALSE;TRUE;FALSE;TRUE;2;5;50;50;
+5;1_64_15;Shield Generator;System that creates barrier around the ship.;Defence, Endurance, ShieldGenerator;500;Amateurish;FALSE;TRUE;FALSE;TRUE;2;5;100;50;
+6;2_64_3;Shield Booster;System for supporting shield regeneration;Defence, RepairSystem, ShieldRepair;50;Amateurish;FALSE;TRUE;TRUE;TRUE;2;5;50;50;
+7;2_64_2;Armor Reinforcer;System for supporting armor reinforcement;Defence, RepairSystem, ArmorRepair;50;Amateurish;FALSE;TRUE;TRUE;TRUE;2;5;50;50;
+8;2_64_4;Hull Repairer;System for supporting hull repairs;Defence, RepairSystem, HullRepair;50;Amateurish;FALSE;TRUE;TRUE;TRUE;2;5;50;50;
+9;12_64_16;Missile Launcher;Basic missile launcher;Weapon, MissileLauncher;500;Amateurish;TRUE;TRUE;TRUE;TRUE;2;5;100;50;
+10;5_64_17;Agility Plates;Wings that increase ability to maneuver;Mobility, ManeuverabilityEnchancer;100;Amateurish;FALSE;FALSE;FALSE;FALSE;0;0;0;0;
+11;3_64_9;Targetting Antena;Can see targets further;Targetting, TargetRange, TargetNumber;100;Amateurish;FALSE;TRUE;FALSE;FALSE;5;5;0;0;
+12;3_64_9;Energy Generator;Drain your shield to produce energy;Energy, EnergyGenerator;100;Amateurish;FALSE;TRUE;FALSE;FALSE;2;2;50;50;
+13;;Hull Block;Hull;HullReinforcement;20;Amateurish;FALSE;FALSE;FALSE;FALSE;0;0;0;0;
+99;12_64_16;Test Missile Launcher;Basic missile launcher;Weapon, MissileLauncher;500;Amateurish;TRUE;TRUE;TRUE;TRUE;0.1;0.1;0;0;
+
